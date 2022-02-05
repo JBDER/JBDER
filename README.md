@@ -25,14 +25,14 @@
 **MAIL:** info@biesen-it.nl
 
 ## Projects
-- <a href="https://biesen-it.nl">Deepslate</a>
+- <a href="https://biesen-it.nl">Biesen-IT</a>
+- <a href="https://randstadrp.nl">Randstad</a>
   
 <details hidden>
 <summary>Past Projects</summary>
 <br>
   <ul> 
     <li><a href="https://randstadrp.nl" target="_blank">Randstad</a>(Roleplay server)</li>
-<li>Randstad   Roleplay(fivem)</li>
 <li>Waalwijk   Roleplay(fivem)</li>
 <li>Zwanenburg Roleplay(fivem)</li>
 <li>Hawaii     Combat  (fivem)</li>
