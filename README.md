@@ -1,4 +1,4 @@
-<h1>Hey i am Jordi</h1>
+<h1>Hey my name is Jоrdі</h1>
 
 
 ## 🛠️ My Skills
