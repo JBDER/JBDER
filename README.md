@@ -32,7 +32,7 @@
 <summary>Past Projects</summary>
 <br>
   <ul> 
-    <li><a href="https://randstadrp.nl" target="_blank">Randstad</a>(Roleplay server)</li>
+
 <li>Waalwijk   Roleplay(fivem)</li>
 <li>Zwanenburg Roleplay(fivem)</li>
 <li>Hawaii     Combat  (fivem)</li>
