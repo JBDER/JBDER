@@ -70,8 +70,9 @@ Jordi
 </p>
 
 ### 👨🏽‍💻 Specs Workspace
-<p>
-    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
+<p> 
+    <a href="#"><img alt="INTEL" src="https://img.shields.io/badge/Intel-Core_i5_3th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
+    <a href="#"><img alt="GTX1050" src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
