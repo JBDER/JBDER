@@ -12,10 +12,9 @@ Hi, I'm Jordi
 ```
 Jordi
 -------------------------
-💻 I am a self taught Web Developer and Junior Cloud Developer
-🌱 Learning about Linux Kernel/Hosting Programs
+💻 I am a self learning Web Developer and Junior Cloud Developer
+🌱 Learning about Linux Kernel/ Web Developing
 🌟 Main languages: HTML, CSS, SQL
-🎵 Love Dutch Rap
 ```
 <hr>
 
